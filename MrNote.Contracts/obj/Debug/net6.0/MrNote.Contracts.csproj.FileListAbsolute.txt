@@ -1,0 +1,12 @@
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/bin/Debug/net6.0/MrNote.Contracts.deps.json
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/bin/Debug/net6.0/MrNote.Contracts.dll
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/bin/Debug/net6.0/MrNote.Contracts.pdb
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/obj/Debug/net6.0/MrNote.Contracts.csproj.AssemblyReference.cache
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/obj/Debug/net6.0/MrNote.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/obj/Debug/net6.0/MrNote.Contracts.AssemblyInfoInputs.cache
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/obj/Debug/net6.0/MrNote.Contracts.AssemblyInfo.cs
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/obj/Debug/net6.0/MrNote.Contracts.csproj.CoreCompileInputs.cache
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/obj/Debug/net6.0/MrNote.Contracts.dll
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/obj/Debug/net6.0/refint/MrNote.Contracts.dll
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/obj/Debug/net6.0/MrNote.Contracts.pdb
+/Users/nikolaslyons/source/MyProjects/noteapp/MrNote.Contracts/obj/Debug/net6.0/ref/MrNote.Contracts.dll

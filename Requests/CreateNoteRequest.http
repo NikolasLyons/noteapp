@@ -1,0 +1,13 @@
+POST https://localhost:7193/notes
+Content-Type: application/json
+
+{
+  "title": "new note",
+  "description": "This is the description of the note",
+  "author": "nik",
+  "todos":[
+    "laundry",
+    "Take dogs to vet"
+  ]
+
+}
