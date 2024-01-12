@@ -9,7 +9,7 @@ using MrNote.Services;
 namespace Notes.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class NotesController : ControllerBase
 {
   private readonly INotesService _noteService;
