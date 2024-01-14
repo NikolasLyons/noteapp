@@ -21,7 +21,6 @@
 </template>
 <script>
 import{ noteService} from '../services/NoteService'
-import { ref } from 'vue'
 export default{
   name:'HomePage',
   data(){
