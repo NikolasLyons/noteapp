@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrNote", "MrNote\MrNote.csproj", "{8FCE91C1-0BD1-4F1C-A225-881B4AEDA814}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrNote", "server\MrNote.csproj", "{8FCE91C1-0BD1-4F1C-A225-881B4AEDA814}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrNote.Contracts", "MrNote.Contracts\MrNote.Contracts.csproj", "{B716B53E-FA19-44A2-AFBC-59058F4F5CFD}"
 EndProject
